@@ -1,0 +1,6 @@
+RoomType,Base_Price,Max_Occupancy
+Deluxe,3500,3
+Standard,2000,2
+Suite,6000,4
+Cottage,4500,5
+Dormitory,900,8
